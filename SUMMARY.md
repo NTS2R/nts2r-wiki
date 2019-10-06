@@ -80,6 +80,11 @@
   * [ver0.3 alpha](ts2rupdate/alphav0.3.md)
   * [ver0.2 alpha](ts2rupdate/alphav0.2.md)
   * [ver0.1 alpha](ts2rupdate/alphav0.1.md)
+
+### 编辑器相关
+
+* [迷恋C修改器](Editor/MiLianCEditor.md)
+* [神琴的修改器](Editor/IssimoEditor.md)
   
 ### bbslgp版 游戏系统介绍
 
@@ -90,6 +95,10 @@
 * [物品附加属性表](GoodsAttachAttribute.md)
 * [难度系统说明](Level.md)
 * [命中与闪避说明](DuckAndHit.md)
+
+### 修改工具
+
+* [修改工具介绍与下载](Tools.md)
 
 ### 改造参数表
 
@@ -106,7 +115,7 @@
   * [物品属性加算](hack/GoodsAttachAttribute.md)
   * [全头像设定](hack/AllFace.md)
   * [限制程序](hack/Limit.md)
-  * [武器·地形扩张](hack\WeaponAndTerrain.md)
+  * [武器·地形扩张](hack/WeaponAndTerrain.md)
   * [连锁](hack/Link.md)
   * [其他杂项](hack/Miscellaneous.md)
 
