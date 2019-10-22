@@ -4,6 +4,8 @@
 
 NTS2R bbslgp版
 
+![nts2r1.87up4](image/nts2r1.87up4.png "nts2r1.87up4")
+
 |最新版本号|发布时间|
 |--|--|
 |1.87up4|2019-09-13|
