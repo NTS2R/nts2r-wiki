@@ -121,4 +121,5 @@
 
 * [神琴的修改教程](HackTutorial/IssimoHack.md)
   * [神琴的吞食天地修改教程 前置章](HackTutorial/IssimoPresection.md)
+  * [神琴的吞食天地修改教程 解除计策地形限制](HackTutorial/IssimoUnlimitStratagem.md)
 * [关于自制四字武将名字模](HackTutorial/XiaoQiaoFont.md)
